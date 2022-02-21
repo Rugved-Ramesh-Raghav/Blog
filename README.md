@@ -1,1 +1,1 @@
-# Blog
+# Design-thinking-blog-exercise
